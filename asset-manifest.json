@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mfaizan22/fruityvice/static/css/main.d83af6f0.css",
+    "main.js": "/mfaizan22/fruityvice/static/js/main.91355ada.js",
+    "static/media/cherry.png": "/mfaizan22/fruityvice/static/media/cherry.c805f06880817fc03e8f.png",
+    "index.html": "/mfaizan22/fruityvice/index.html",
+    "main.d83af6f0.css.map": "/mfaizan22/fruityvice/static/css/main.d83af6f0.css.map",
+    "main.91355ada.js.map": "/mfaizan22/fruityvice/static/js/main.91355ada.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d83af6f0.css",
+    "static/js/main.91355ada.js"
+  ]
+}
